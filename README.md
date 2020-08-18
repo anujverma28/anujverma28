@@ -1,7 +1,9 @@
 ### Hi there 👋
 ```
-🔭 I’m currently working on my https://anujverma28.github.io/ page.
-🌱 I’m currently learning html and css, more with python advance libraries.
+📫 How to reach me at _thelocalhost_ (instagram handler).
+🔭 Starting with 50 days of code. (To boost my knowledge and to understand basics of BLOGGING).
+🌱 I'll be working with the python basics to FLASK (framework).
+⚡ Will be integrating DATABASE, HTML, CSS and some responsive back-end.
 ```
 
 <!--
@@ -20,7 +22,7 @@
 <br>
 -->
 <a href="#">
-  <img align="right" alt="Anuj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anujverma28&show_icons=true&hide_border=true" />
+  <img align="center" alt="Anuj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anujverma28&show_icons=true&hide_border=true" />
 </a>
 <br>
 
