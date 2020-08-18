@@ -13,12 +13,12 @@
 | `PhP` | 40% |
 | `HTML` | 40% |
 -->
-
+<!--
 <a href="#">
   <img align="left" alt="Languages and Tools used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujverma28&show_icons=true&hide_border=true" />
 </a>
 <br>
-
+-->
 <a href="#">
   <img align="right" alt="Anuj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anujverma28&show_icons=true&hide_border=true" />
 </a>
