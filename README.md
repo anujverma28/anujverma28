@@ -22,7 +22,7 @@
 <br>
 -->
 <a href="#">
-  <img align="center" alt="Anuj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anujverma28&show_icons=true&theme=dark&hide_border=true" />
+  <img align="left" alt="Anuj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anujverma28&show_icons=true&theme=dark&hide_border=true" />
 </a>
 <br>
 
