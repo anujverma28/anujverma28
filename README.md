@@ -1,9 +1,6 @@
 ### Hi there 👋
 ```
 📫 How to reach me at _thelocalhost_ (instagram handler).
-🔭 Starting with 50 days of code. (To boost my knowledge and to understand basics of BLOGGING).
-🌱 I'll be working with the python basics to FLASK (framework).
-⚡ Will be integrating DATABASE, HTML, CSS and some responsive back-end.
 ```
 
 <!--
